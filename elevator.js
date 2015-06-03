@@ -12,5 +12,4 @@ module.exports = {
       return Number(end) - Number(start);
     }
   }
-
 };
